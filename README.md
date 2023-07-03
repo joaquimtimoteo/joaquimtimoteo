@@ -1,4 +1,5 @@
 👨‍💻 Joaquim Timóteo 👨‍💻
+
 👋 Hello! Welcome to my GitHub profile. I'm a passionate developer who loves to create innovative and impactful solutions.
 
 💡 Turning ideas into code with creativity and precision.
