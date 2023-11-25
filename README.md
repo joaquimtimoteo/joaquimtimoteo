@@ -23,9 +23,9 @@ And many other exciting technologies!
 🌐 Connect with me:
 
 📧 Email: joaquimcarlostimoteo1@gmail.com
-🌐 Website:joaquimcarlostimoteo1@gmail.com
+🌐 Website:timoteoportfolio.netlify.app/
 🔗 LinkedIn:www.linkedin.com/in/joaquim-tim%C3%B3teo-619957227/
-🐦 Twitter:joaquimtimoteo
+🐦 Twitter:twitter.com/joa34637
 ✨ Let's create innovative solutions and make a difference together!
 
 ⭐️ "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
