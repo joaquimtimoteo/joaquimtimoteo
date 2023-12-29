@@ -28,7 +28,7 @@ And many other exciting technologies!
 
 🔗 LinkedIn:www.linkedin.com/in/joaquim-tim%C3%B3teo-619957227/
 
-🐦 Twitter:twitter.com/joa34637
+🐦 Twitter:www.twitter.com/joa34637
 
 ✨ Let's create innovative solutions and make a difference together!
 
