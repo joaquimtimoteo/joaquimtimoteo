@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <h1 align="center" style="display: inline-block" > <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture>, I'm Joaquim Timóteo</h1>
+  <h1 align="center" style="display: inline-block" > Hi ✋, I'm Joaquim Timóteo</h1>
 <h3 align="center">Innovative Software Engineer</h3>
  
 
--👨‍💻 I’m currently working on mobile development technologies with Flutter,Kotlin,Dart and Objective-C.😅
+- <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> I’m currently working on mobile development technologies with Flutter,Kotlin,Dart and Objective-C.😅
 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 ⚡ Fun fact: I love to play pool and even participates in CFT  🏴
 - 💬 Ask me about **React, Node.js , JavaScript, TypeScript**
