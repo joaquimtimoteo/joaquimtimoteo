@@ -6,7 +6,7 @@
  
 
 - I’m currently working on mobile development technologies with Flutter,Kotlin,Dart.😅                 
-💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.                                              <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 200px>    
+💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.                                              <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 250px>    
 -⚡ Fun fact: I love to play pool and even participates in CFT  🏴
 - 💬 Ask me about **React, Node.js , JavaScript, TypeScript**
 
