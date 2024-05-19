@@ -1,5 +1,30 @@
 <h1 align="center">Hi 👋, I'm Joaquim Timóteo</h1>
-<h3 align="center">; Version: v1 ; Kind: SoftwareDeveloper ; Name: Joaquim Timoteo ; University: Moscow Technical University of Communications and Informatics ; Course: Undergraduate in Cybersecurity and Data Analysis section .data name db "Joaquim Timoteo", 0 university db "Moscow Technical University of Communications and Informatics", 0 course db "Undergraduate in Cybersecurity and Data Analysis", 0 section .bss section .text global _start _start: ; Main Data ; Name: Joaquim Timoteo ; University: Moscow Technical University of Communications and Informatics ; Course: Undergraduate in Cybersecurity and Data Analysis ; Labels flutterDeveloper db "true", 0 experienceYears db "3", 0 cncfMentee db "2023", 0 project db "strimzi", 0 gdscMobileDev db "2022", 0 ; Annotations interests db "Mobile development, Cloud computing, Distributed systems, System programming, Linux", 0 sports db "Swimming, Football", 0 ; Specifications replicas db "1", 0 ; Exit the program mov eax, 60 ; syscall: exit xor edi, edi ; status: 0 syscall ; execute syscall</h3>
+<h3 align="center">
+
+apiVersion: v1
+kind: SoftwareDeveloper
+metadata:
+  name: Joaquim Timoteo
+  namespace: Moscow Technical University of Communications and Informatics, Undergraduate in Cybersecurity and Data Analysis
+  labels:
+    flutterDeveloper: true
+    experienceYears: 3
+    cncfMentee: 2023
+    project: strimzi
+    gdscMobileDev: 2022
+  annotations:
+    interests: |
+      - Mobile development
+      - Cloud computing
+      - Distributed systems
+      - System programming
+      - Linux
+    sports: |
+      - Swimming
+      - Football
+spec:
+  replicas: 1
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaquimtimoteo" alt="joaquimtimoteo" /></a> </p>
 
