@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Joaquim Timóteo</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center" style="display: inline-block" >Hi 👋, I'm Joaquim Timóteo</h1>
 <h3 align="center">Innovative Software Engineer</h3>
 
-- 🔭 I’m currently working on **Flutter & Firebase**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/joaquim-tim%C3%B3teo-619957227/](https://www.linkedin.com/in/joaquim-tim%C3%B3teo-619957227/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/joaquim-tim%C3%B3teo-619957227/](https://www.linkedin.com/in/joaquim-tim%C3%B3teo-619957227/)
-
+-👨‍💻 I’m currently working on mobile development technologies with Flutter,Kotlin,Dart and Objective-C.
+📚 I’m currently learning everything about  development technologies and Backend technologies 😅
+💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+⚡ Fun fact: I love to play pool and even participates in CFT  🏴
 - 💬 Ask me about **React, Node.js , JavaScript, TypeScript**
 
 - 📫 How to reach me **joaquimcarlostimoteo1@gmail.com**
