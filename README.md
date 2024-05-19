@@ -5,9 +5,8 @@
 <h3 align="center">Innovative Software Engineer</h3>
  
 
-- I’m currently working on mobile development technologies with Flutter,Kotlin,Dart.😅
-- <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 200px>                     
-💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- I’m currently working on mobile development technologies with Flutter,Kotlin,Dart.😅                 
+💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.                                             - <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 200px>    
 ⚡ Fun fact: I love to play pool and even participates in CFT  🏴
 - 💬 Ask me about **React, Node.js , JavaScript, TypeScript**
 
