@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **joaquimcarlostimoteo1@gmail.com**
 
-- 📄 Know about my experiences [As an Innovative Software Engineer, I bring a wealth of international experience at industry-leading companies, including Nvidia Partner, Ipworld and currently at iVipCoin, one of the leading investment companies in Brazil. My specialization in cutting-edge technologies, such as Flutter & Firebase, positions me as a versatile and highly skilled professional in mobile development.](As an Innovative Software Engineer, I bring a wealth of international experience at industry-leading companies, including Nvidia Partner, Ipworld and currently at iVipCoin, one of the leading investment companies in Brazil. My specialization in cutting-edge technologies, such as Flutter & Firebase, positions me as a versatile and highly skilled professional in mobile development.)
+- 📄 Know about my experiences   **Many other exciting technologies! 💻 Coding with passion, persistence, and a touch of magic.
+Transforming lines of code into amazing experiences**
 
 - ⚡ Fun fact **ith his international expertise and passion for cutting-edge tech, Joaquim transforms every project into a digital masterpiece. 🌟🚀**
 
