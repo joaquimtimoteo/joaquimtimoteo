@@ -3,7 +3,9 @@
 #### Technical Skills: Expertise Python, SQL, AWS, API , Docker, R , Redis
 
 ## Education
+
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- Ph.D., Physics | The University of Texas at Dallas (_May2022_)								       		
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 - B.S., Information security & cibernetic| The Moscow Technical University of Communications and Informatics (_May 2017_)
