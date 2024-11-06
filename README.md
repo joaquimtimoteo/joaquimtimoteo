@@ -2,13 +2,13 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> 
 
   <h1 align="center" style="display: inline-block" > Hi ✋, I'm Joaquim Timóteo</h1>
-<h3 align="center">Innovative Software Engineer</h3>
+<h3 align="center">Software Engineer & Data Scientist</h3>
  
 
-- I’m currently working with Python | Docker | JavaScript | AWS | R | React.JS | Backend | Flutter                 
+- I’m currently working with Expertise in Python | Docker | Java | AWS | API | R | React.JS | Backend | Redis              
 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.                                              <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 250px>    
 -⚡ Fun fact: I love to play pool and even participates in CFT  🏴
-- 💬 Ask me about **Python,  React, Node.js , JavaScript, TypeScript**
+- 💬 Ask me about **Python,  Docker, Java , AWS, API, R, React.JS, Backend, Redis**
 
 - 📫 How to reach me **joaquimcarlostimoteo1@gmail.com**
 
