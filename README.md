@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently Machine Learning, Go
+- 🌱 &nbsp;I’m currently Learning Machine Learning, Go
 - 💬 &nbsp;Ask me about anything related to Python/Docker/Java or AWS/API/R/React.JS/Flask
 - 👨‍💻 &nbsp;Read more about my projects at [joaquimcarlostimoteo1@gmail.com](www.linkedin.com/in/joaquim-timóteo-619957227)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](www.linkedin.com/in/joaquim-timóteo-619957227))
