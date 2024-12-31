@@ -26,7 +26,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 ### ✨&nbsp; About Me
 
-Software Engineer & Data Scientist at @reborntechnology | Expertise in Python | Docker | Java | AWS | API | R | React.JS | Backend | Redis |
+I´m Software Engineer & Data Scientist with +5years of experience Expertise in Python, Docker,  Java , AWS, API , R ,  React.JS , Backend, Redis 
 
 #### My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
