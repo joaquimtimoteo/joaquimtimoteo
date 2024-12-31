@@ -26,7 +26,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 ### ✨&nbsp; About Me
 
-Software Engineer & Data Scientist at @reborntechnology | Expertise in Python | Docker | Java | AWS | API | R | React.JS | Backend | Redis
+Software Engineer & Data Scientist at @reborntechnology | Expertise in Python | Docker | Java | AWS | API | R | React.JS | Backend | Redis |
 
 #### My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
@@ -59,7 +59,7 @@ You can read more about me and my open source journey at my website: [https://ww
 I create most of my open-source projects to solve the challenges I encounter in life, with many more still waiting to be addressed. I am embarking on a quest to find solutions for each one, one problem at a time.
 
 #### Awards and Achievements
-- Won the 1st edition of [GitHub India Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
+- Won the 1st edition of [GitHub Angola Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
 - Worked as [DuckDuckGo Community Leader](https://web.archive.org/web/20210727164606/https://help.duckduckgo.com/community/community-leaders/) and Maintainer
 - Won 1st place in Several Hackathons and events
   
