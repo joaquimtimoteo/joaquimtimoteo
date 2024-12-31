@@ -3,9 +3,9 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+- 💬 &nbsp;Ask me about anything related to Python/Docker/Java or AWS/API/R/React.JS/Flask
+- 👨‍💻 &nbsp;Read more about my projects at [joaquimtimóteo.com](www.linkedin.com/in/joaquim-timóteo-619957227)
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](www.linkedin.com/in/joaquim-timóteo-619957227))
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
@@ -26,7 +26,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer with 5+ years of experience in developing enterprise applications and open-source software.
+Software Engineer & Data Scientist at @reborntechnology | Expertise in Python | Docker | Java | AWS | API | R | React.JS | Backend | Redis
 
 #### My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
@@ -50,7 +50,7 @@ All of my projects are released as open-source on GitHub, this includes some of 
                  /___/                /___/       
 ```
 
-During my free time, I actively contribute to open-source projects on GitHub. Due to my significant contributions to DuckDuckGo, I was appointed as a maintainer and community leader with write access to all of DuckDuckGo's repositories. I have also made contributions to a variety of other open-source projects and organizations, including Mozilla, Angular, Svelte, Node.JS etc
+I am a Software Developer and Data Scientist with over 5 years of practical experience in software development, data science and cybersecurity. Throughout my career, I have gained in-depth knowledge and extensive experience across a wide range of technologies, allowing me to create innovative and highly effective solutions.
   
 I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes [Tinkerhub Foundation](https://tinkerhub.org/), [Kites Foundation](https://kitesfoundation.org/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Patternfly](https://www.patternfly.org/) etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
 
