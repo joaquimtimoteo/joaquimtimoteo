@@ -184,17 +184,3 @@ connect <- function() {
 
 </details>
 ```
-
-Este README oferece:
-
-1. **Estrutura Híbrida**: Demonstra domínio em ambas linguagens através de exemplos paralelos
-2. **Comparação Direta**: Tabelas mostrando equivalências entre Python e R
-3. **Sintaxe Específica**: Blocos de código com implementações equivalentes
-4. **Diagramas Integrados**: Fluxos de trabalho combinando ambas tecnologias
-5. **Organização Modular**: Seções recolhíveis para informações detalhadas
-
-Para personalizar:
-1. Adicione links reais nas seções de conexão
-2. Inclua projetos específicos com implementações duplas
-3. Adicione métricas de desempenho comparativas
-4. Personalize os exemplos de código com suas próprias funções
