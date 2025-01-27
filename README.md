@@ -165,8 +165,8 @@ def connect():
 # R Style
 connect <- function() {
   list(
-    Kaggle = "https://kaggle.com/yourprofile",
-    RPubs = "https://rpubs.com/yourprofile"
+    Kaggle = "https://kaggle.com/joaquimtimoteo",
+    RPubs = "https://rpubs.com/joaquimtimoteo"
   )
 }
 ```
