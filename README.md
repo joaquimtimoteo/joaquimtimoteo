@@ -1,7 +1,7 @@
 ```markdown
 <h1 align="center">
   <img src="https://img.icons8.com/3d-fluency/94/data-configuration.png" width="100"/>
-  <br/>Joaquim Carlos Timóteo 
+  <br/>Joaquim Timóteo 
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <div align="center">
   
-📍 **Moscow, Russia** | 📞 **+7 969 100-38-58** | 📧 **joaquimcarlostimoteo1@gmail.com**
+📍 ** 📧 **joaquimcarlostimoteo1@gmail.com**
   
 </div>
 
