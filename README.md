@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://img.icons8.com/color/96/python--v1.png" width="70"/> 
   <img src="https://img.icons8.com/fluency/96/r-project.png" width="70"/>
-  <br/>Joaquim Timóteo | Software Engineer & Data Science Architect 
+  <br/> Joaquim Timóteo | Software Engineer & Data Science Architect 
 </h1>
 
 ```python
@@ -155,8 +155,8 @@ resources <- list(
 # Python Style
 def connect():
     platforms = {
-        'GitHub': 'https://github.com/yourprofile',
-        'LinkedIn': 'https://linkedin.com/in/yourprofile'
+        'GitHub': 'https://github.com/joaquimtimoteo/',
+        'LinkedIn': 'www.linkedin.com/in/joaquim-timóteo-619957227'
     }
     return platforms
 ```
