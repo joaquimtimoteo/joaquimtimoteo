@@ -6,7 +6,6 @@
 </h1>
 
 ```python
-# PYTHON CORE COMPETENCIES
 class DataScienceStack:
     def __init__(self):
         self.ml_libraries = ['TensorFlow', 'PyTorch', 'Scikit-learn']
@@ -15,8 +14,6 @@ class DataScienceStack:
         
     def deploy_model(self):
         return "ML Pipelines | API Integration | Cloud Deployment"
-
-# R CORE COMPETENCIES
 ```
 ```r
 # R STATISTICAL EXPERTISE
