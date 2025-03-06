@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">
   <img src="https://img.icons8.com/color/96/python--v1.png" width="70"/> 
   <img src="https://img.icons8.com/fluency/96/r-project.png" width="70"/>
@@ -6,90 +5,90 @@
 </h1>
 
 ```python
-class DataScienceStack:
+class DataScienceExpertise:
     def __init__(self):
-        self.ml_libraries = ['TensorFlow', 'PyTorch', 'Scikit-learn']
-        self.visualization = ['Matplotlib', 'Seaborn', 'Plotly']
-        self.data_tools = ['Pandas', 'NumPy', 'Spark']
+        self.ml_frameworks = ['TensorFlow', 'PyTorch', 'Scikit-learn']
+        self.visualization_tools = ['Matplotlib', 'Seaborn', 'Plotly']
+        self.analytics_stack = ['Pandas', 'NumPy', 'Spark']
         
-    def deploy_model(self):
-        return "ML Pipelines | API Integration | Cloud Deployment"
+    def deliver_solutions(self):
+        return "Robust ML Pipelines | Seamless API Integration | Scalable Cloud Deployment"
 ```
 ```r
-# R STATISTICAL EXPERTISE
-data_science_stack <- list(
-  statistical_models = c("GLM", "Time Series", "Bayesian"),
-  visualization = c("ggplot2", "Shiny", "Lattice"),
-  data_manipulation = c("dplyr", "tidyr", "data.table")
+# R STATISTICAL PROWESS
+advanced_analytics <- list(
+  statistical_expertise = c("GLM", "Time Series", "Bayesian Inference"),
+  data_visualization = c("ggplot2", "Interactive Shiny", "Lattice"),
+  efficient_manipulation = c("dplyr", "tidyr", "data.table")
 )
 
-deploy_analysis <- function() {
-  return("Advanced Statistical Modeling | Report Generation | RMarkdown")
+deliver_insights <- function() {
+  return("Sophisticated Statistical Modeling | Elegant Report Generation | Interactive RMarkdown")
 }
 ```
 
 ---
 
-## 🔁 **Data Workflow Integration**
+## 🔁 **End-to-End Data Science Architecture**
 
-### **Python Pipeline**
+### **Python Ecosystem**
 ```mermaid
 graph LR
-A[Data Collection] --> B(Pandas Preprocessing)
-B --> C{Model Training}
-C -->|Python| D[Scikit-learn]
-C -->|Deep Learning| E[TensorFlow]
-D --> F[Flask API]
+A[Comprehensive Data Collection] --> B(Elegant Pandas Preprocessing)
+B --> C{Strategic Model Selection}
+C -->|Production ML| D[Optimized Scikit-learn]
+C -->|Neural Networks| E[Advanced TensorFlow]
+D --> F[Performant Flask API]
 E --> F
 ```
 
-### **R Pipeline**
+### **R Ecosystem**
 ```mermaid
 graph LR
-A[Data Cleaning] --> B(dplyr Transformation)
-B --> C{Analysis Type}
-C -->|Statistical| D[GLM Models]
-C -->|Reporting| E[RMarkdown]
-D --> F[Shiny Dashboard]
+A[Meticulous Data Cleaning] --> B(Powerful dplyr Transformation)
+B --> C{Analytics Approach}
+C -->|Statistical Inference| D[Sophisticated GLM Models]
+C -->|Executive Reporting| E[Dynamic RMarkdown]
+D --> F[Interactive Shiny Dashboard]
 E --> F
 ```
 
 ---
 
-## 📊 **Multi-Language Toolkit**
+## 📊 **Bilingual Data Science Arsenal**
 
-| Task                | Python Solution           | R Solution               |
-|---------------------|---------------------------|--------------------------|
-| Data Manipulation   | `pd.DataFrame.pivot()`    | `dplyr::pivot_wider()`   |
-| Visualization       | `sns.heatmap()`           | `ggplot2::geom_tile()`   |
-| Modeling            | `sklearn.ensemble`        | `caret::train()`         |
-| Deployment          | `Flask` REST API          | `Shiny` Web App          |
+| Business Need          | Python Implementation           | R Implementation                 |
+|------------------------|--------------------------------|----------------------------------|
+| Data Restructuring     | `pd.DataFrame.pivot()`         | `dplyr::pivot_wider()`           |
+| Pattern Visualization  | `sns.heatmap()`                | `ggplot2::geom_tile()`           |
+| Predictive Modeling    | `sklearn.ensemble`             | `caret::train()`                 |
+| Solution Delivery      | `Flask` Enterprise REST API    | `Shiny` Executive Dashboards     |
 
 ---
 
-## 🧪 **Code Showcase**
+## 🧪 **Technical Excellence**
 
-### **Python ML Example**
+### **Python ML Craftsmanship**
 ```python
 from sklearn.ensemble import RandomForestClassifier
 
-def train_model(X, y):
+def build_predictive_model(X, y):
     model = RandomForestClassifier(n_estimators=100)
     model.fit(X, y)
     return model
 
-# Feature Engineering Pipeline
-X_processed = Pipeline([
-    ('imputer', SimpleImputer()),
+# Robust Feature Engineering Pipeline
+X_optimized = Pipeline([
+    ('imputer', SimpleImputer(strategy='median')),
     ('scaler', StandardScaler())
 ]).fit_transform(X)
 ```
 
-### **R Statistical Analysis**
+### **R Statistical Mastery**
 ```r
 library(caret)
 
-train_model <- function(data) {
+build_predictive_model <- function(data) {
   control <- trainControl(method = "cv", number = 5)
   model <- train(
     Class ~ .,
@@ -100,57 +99,59 @@ train_model <- function(data) {
   return(model)
 }
 
-# Advanced Visualization
+# Sophisticated Visualization
 ggplot(mtcars, aes(x = wt, y = mpg)) + 
-  geom_point() + 
-  geom_smooth(method = "lm")
+  geom_point(aes(color = factor(cyl)), size = 3) + 
+  geom_smooth(method = "lm") +
+  theme_minimal() +
+  labs(title = "Weight vs. Efficiency Analysis")
 ```
 
 ---
 
-## 📦 **Package Development**
+## 📦 **Software Development Expertise**
 
 **Python**:
 ```bash
-# PyPI Package Template
+# Production-Ready PyPI Package
 $ poetry new ds_utils
 $ python -m build
 ```
 
 **R**:
 ```bash
-# CRAN-ready Package
+# Publication-Quality CRAN Package
 $ devtools::create("rDStools")
 $ devtools::check()
 ```
 
 ---
 
-## 📚 **Learning Resources**
+## 📚 **Continuous Learning Philosophy**
 
 ```python
-# Python Learning Path
-resources = {
-    'books': ['Python for Data Analysis', 'Fluent Python'],
-    'courses': ['Advanced ML with Python', 'PySpark Essentials']
+# Python Excellence Roadmap
+knowledge_portfolio = {
+    'essential_reading': ['Python for Data Analysis', 'Fluent Python'],
+    'professional_development': ['Advanced ML Architecture', 'Distributed PySpark Systems']
 }
 ```
 
 ```r
-# R Learning Path
-resources <- list(
-  books = c("R for Data Science", "Advanced R"),
-  courses = c("Shiny Masterclass", "R Production Systems")
+# R Expertise Trajectory
+knowledge_portfolio <- list(
+  essential_reading = c("R for Data Science", "Advanced R"),
+  professional_development = c("Enterprise Shiny Applications", "Production R Systems")
 )
 ```
 
 ---
 
-## 🌐 **Connect in Your Preferred Language**
+## 🌐 **Professional Network**
 
 ```python
-# Python Style
-def connect():
+# Python Ecosystem
+def connect_professionally():
     platforms = {
         'GitHub': 'https://github.com/joaquimtimoteo/',
         'LinkedIn': 'www.linkedin.com/in/joaquim-timóteo-619957227'
@@ -159,8 +160,8 @@ def connect():
 ```
 
 ```r
-# R Style
-connect <- function() {
+# R Community
+connect_professionally <- function() {
   list(
     Kaggle = "https://kaggle.com/joaquimtimoteo",
     RPubs = "https://rpubs.com/joaquimtimoteo"
@@ -169,15 +170,14 @@ connect <- function() {
 ```
 
 <details>
-<summary>📌 Combined Skills Matrix</summary>
+<summary>📌 Comprehensive Technical Proficiency</summary>
 
-| Skill Category       | Python Implementation     | R Implementation        |
-|----------------------|---------------------------|-------------------------|
-| Data Wrangling       | Pandas/Numpy              | dplyr/tidyr             |
-| Visualization        | Matplotlib/Plotly         | ggplot2/Plotly          |
-| Modeling             | Scikit-learn/TensorFlow   | caret/Tidymodels        |
-| Reporting            | Jupyter Notebooks         | RMarkdown/Quarto        |
-| Deployment           | Flask/Django              | Shiny/plumber           |
+| Domain                | Python Implementation        | R Implementation           |
+|-----------------------|------------------------------|----------------------------|
+| Data Transformation   | Pandas/Numpy                 | dplyr/tidyr                |
+| Data Storytelling     | Matplotlib/Plotly            | ggplot2/Plotly             |
+| Predictive Analytics  | Scikit-learn/TensorFlow      | caret/Tidymodels           |
+| Insight Communication | Jupyter Notebooks            | RMarkdown/Quarto           |
+| Solution Deployment   | Flask/Django                 | Shiny/plumber              |
 
 </details>
-```
