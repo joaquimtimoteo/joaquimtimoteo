@@ -1,9 +1,3 @@
-
-
-Here’s an enhanced version of your technical profile with improved formatting, consistency, and visual polish. I’ve also added some stylistic touches to make it more engaging and professional:
-
----
-
 # **Joaquim Timóteo**  
 ## Software Engineer & Data Science Architect  
 <p align="center">
