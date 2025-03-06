@@ -1,19 +1,19 @@
 <div align="center">
-  <pre>
-  ▄▄▄   ▄▄▄     ▄▄▄▄      ▄▄▄     ██     ▄█▄ ▄█ ██    ▄▄
- █   █ █   █   █    █    █   █   █  █   █▀ ▀  █  █    █▀▀
- █   █ █   █   █    █    █▀▀▀▀   █▄▄█  ██▀    █  █▄▄  ██▄
- ▀▀▀▀  ▀▀▀▀▀   ▀▀▀▀▀     ▀       ▀▀▀   ▀      ▀  ▀▀▀  ▀▀▀
-                  ▀█▀ █ █▀▄▀█ ▄▀▄ ▀█▀ █▀▀ ▄▀▄
-                   █  █ █ ▀ █ █▀█  █  █▀  █▀█
+  <pre style="line-height: 1.1;">
+▄▄▄   ▄▄▄     ▄▄▄▄      ▄▄▄     ██     ▄█▄ ▄█ ██    ▄▄
+█   █ █   █   █    █    █   █   █  █   █▀ ▀  █  █    █▀▀
+█   █ █   █   █    █    █▀▀▀▀   █▄▄█  ██▀    █  █▄▄  ██▄
+▀▀▀▀  ▀▀▀▀▀   ▀▀▀▀▀     ▀       ▀▀▀   ▀      ▀  ▀▀▀  ▀▀▀
+                 ▀█▀ █ █▀▄▀█ ▄▀▄ ▀█▀ █▀▀ ▄▀▄
+                  █  █ █ ▀ █ █▀█  █  █▀  █▀█
   </pre>
-  
-  <div>
+
+  <div style="margin: 20px 0;">
     <img src="https://img.icons8.com/color/96/python--v1.png" width="50" alt="Python" align="center" />
-    <b>+</b>
+    <b> + </b>
     <img src="https://img.icons8.com/fluency/96/r-project.png" width="50" alt="R" align="center" />
-    <b>=</b>
-    <span>🔮</span>
+    <b> = </b>
+    <span style="font-size: 2rem;">🔮</span>
   </div>
   
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaquimtimoteo)
@@ -30,21 +30,21 @@
 
 ```
 ╔═══════════════╗  ╔════════════════╗
-║ PYTHON DOMAIN ║  ║   R DOMAIN     ║
+║ PYTHON DOMAIN ║  ║    R DOMAIN    ║
 ╚═══════════════╝  ╚════════════════╝
-      ┃                  ┃
-      ▼                  ▼
-┏━━━━━━━━━━━━━━━┓  ┏━━━━━━━━━━━━━━━┓
-┃ • TensorFlow  ┃  ┃ • Tidyverse    ┃
-┃ • PyTorch     ┃  ┃ • Shiny        ┃
-┃ • Scikit-learn┃  ┃ • Stan/brms    ┃
-┃ • Dask/Spark  ┃  ┃ • data.table   ┃
-┗━━━━━━━━━━━━━━━┛  ┗━━━━━━━━━━━━━━━┛
-      ┃                  ┃
-      ▼                  ▼
-  ┏━━━━━━━━━━━━━━━━━━━━━━━┓
-  ┃    DATA SOLUTIONS     ┃
-  ┗━━━━━━━━━━━━━━━━━━━━━━━┛
+      ┃                   ┃
+      ▼                   ▼
+┏━━━━━━━━━━━━━━━━┓  ┏━━━━━━━━━━━━━━━━┓
+┃ • TensorFlow   ┃  ┃ • Tidyverse    ┃
+┃ • PyTorch      ┃  ┃ • Shiny        ┃
+┃ • Scikit-learn ┃  ┃ • Stan/brms    ┃
+┃ • Dask/Spark   ┃  ┃ • data.table   ┃
+┗━━━━━━━━━━━━━━━━┛  ┗━━━━━━━━━━━━━━━━┛
+      ┃                   ┃
+      ▼                   ▼
+  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+  ┃     DATA SOLUTIONS       ┃
+  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 ---
@@ -53,12 +53,11 @@
   <h1>⚡ THE LANGUAGE TRANSFORMER ⚡</h1>
 </div>
 
-<table>
-<tr>
-<td>
-
-```python
-# Python Incantations
+<table align="center">
+  <tr>
+    <td valign="top" style="padding: 0 20px;">
+      <h3>Python Incantations</h3>
+      <pre style="background: #f6f8fa; padding: 1rem; border-radius: 6px;">
 def summon_ml_powers():
     spells = {
         "classification": [
@@ -74,33 +73,22 @@ def summon_ml_powers():
     }
     
     return "✨ Machine Learning Wizard ✨"
-```
-
-</td>
-<td>
-
-```r
-# R Enchantments
+      </pre>
+    </td>
+    <td valign="top" style="padding: 0 20px;">
+      <h3>R Enchantments</h3>
+      <pre style="background: #f6f8fa; padding: 1rem; border-radius: 6px;">
 cast_statistical_magic <- function() {
   spells <- list(
-    "modeling" = c(
-      "📊 ggplot2",
-      "🧮 lme4",
-      "🔮 Stan"
-    ),
-    "analysis" = c(
-      "📈 time series",
-      "🌐 spatial", 
-      "🧩 structural"
-    )
+    modeling = c("📊 ggplot2", "🧮 lme4", "🔮 Stan"),
+    analysis = c("📈 time series", "🌐 spatial", "🧩 structural")
   )
   
   return("✨ Statistical Sorcerer ✨")
 }
-```
-
-</td>
-</tr>
+      </pre>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -135,21 +123,17 @@ graph TD
   <h2>🧪 CODE POTIONS 🧪</h2>
 </div>
 
-<table>
-<tr>
-<td>
-
-<div align="center">⚗️ <b>PYTHON BREW</b> ⚗️</div>
-
-```python
+<table align="center">
+  <tr>
+    <td valign="top" style="padding: 0 20px;">
+      <div align="center"><b>⚗️ PYTHON BREW ⚗️</b></div>
+      <pre style="background: #f6f8fa; padding: 1rem; border-radius: 6px;">
 from sklearn.pipeline import Pipeline
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import StandardScaler
 
 def craft_ml_potion(ingredients):
-    """Transforms raw data into prediction gold"""
-    
-    # The secret recipe
+    """Transforms raw data into prediction gold."""
     potion = Pipeline([
         ('purify', StandardScaler()),
         ('enchant', RandomForestClassifier(
@@ -159,30 +143,20 @@ def craft_ml_potion(ingredients):
             oob_score=True
         ))
     ])
-    
-    # Brewing process
     potion.fit(ingredients['X'], ingredients['y'])
-    
     return "✨ The potion is ready! ✨"
-```
-
-</td>
-<td>
-
-<div align="center">⚗️ <b>R ELIXIR</b> ⚗️</div>
-
-```r
+      </pre>
+    </td>
+    <td valign="top" style="padding: 0 20px;">
+      <div align="center"><b>⚗️ R ELIXIR ⚗️</b></div>
+      <pre style="background: #f6f8fa; padding: 1rem; border-radius: 6px;">
 library(tidyverse)
 library(brms)
 
 craft_statistical_elixir <- function(ingredients) {
-  # The arcane formula
   formula <- bf(
-    outcome ~ s(predictor1) + 
-      (1 + predictor2 | group)
+    outcome ~ s(predictor1) + (1 + predictor2 | group)
   )
-  
-  # The mystical brewing
   elixir <- brm(
     formula = formula,
     data = ingredients,
@@ -194,13 +168,11 @@ craft_statistical_elixir <- function(ingredients) {
     chains = 4,
     cores = 4
   )
-  
   return("✨ The elixir is ready! ✨")
 }
-```
-
-</td>
-</tr>
+      </pre>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -209,60 +181,57 @@ craft_statistical_elixir <- function(ingredients) {
   <h2>📚 SPELLBOOKS 📚</h2>
 </div>
 
-<table>
-<tr>
-<td width="33%" align="center">
-  <h3>🐍 Python Grimoire</h3>
-  <ul align="left">
-    <li>Deep Learning Incantations</li>
-    <li>NLP Enchantments</li>
-    <li>Computer Vision Spells</li>
-    <li>MLOps Rituals</li>
-  </ul>
-</td>
-<td width="33%" align="center">
-  <h3>📊 R Tome</h3>
-  <ul align="left">
-    <li>Bayesian Prophecies</li>
-    <li>Statistical Divinations</li>
-    <li>Time Series Scrying</li>
-    <li>Visualization Conjuring</li>
-  </ul>
-</td>
-<td width="33%" align="center">
-  <h3>⚙️ Engineering Scrolls</h3>
-  <ul align="left">
-    <li>Cloud Architecture Runes</li>
-    <li>API Integration Sigils</li>
-    <li>Database Wards</li>
-    <li>CI/CD Talismans</li>
-  </ul>
-</td>
-</tr>
+<table align="center" style="width: 100%; text-align: center;">
+  <tr>
+    <td width="33%">
+      <h3>🐍 Python Grimoire</h3>
+      <ul style="text-align: left; display: inline-block;">
+        <li>Deep Learning Incantations</li>
+        <li>NLP Enchantments</li>
+        <li>Computer Vision Spells</li>
+        <li>MLOps Rituals</li>
+      </ul>
+    </td>
+    <td width="33%">
+      <h3>📊 R Tome</h3>
+      <ul style="text-align: left; display: inline-block;">
+        <li>Bayesian Prophecies</li>
+        <li>Statistical Divinations</li>
+        <li>Time Series Scrying</li>
+        <li>Visualization Conjuring</li>
+      </ul>
+    </td>
+    <td width="33%">
+      <h3>⚙️ Engineering Scrolls</h3>
+      <ul style="text-align: left; display: inline-block;">
+        <li>Cloud Architecture Runes</li>
+        <li>API Integration Sigils</li>
+        <li>Database Wards</li>
+        <li>CI/CD Talismans</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
 
 <div align="center">
   <h2>🔮 THE PROPHECY 🔮</h2>
-  
-```
+  <pre style="font-style: italic; margin: 0 auto; max-width: 600px;">
 In the realm of DATA, a bilingual practitioner emerges,
 Where PYTHON and R harmonize into powerful convergence.
 Seeking collaborations with fellow wizards and witches,
 To transform raw data into DECISION riches.
-```
-
+  </pre>
   <br>
   <h3>🧙‍♂️ JOIN MY QUEST 🧙‍♀️</h3>
-  
   [![Collaborate](https://img.shields.io/badge/JOIN-THE_ALLIANCE-purple?style=for-the-badge)](https://github.com/joaquimtimoteo)
 </div>
 
 ---
 
 <div align="center">
-  <pre>
+  <pre style="line-height: 1.1;">
            ___                             ___           
           /\__\          ___              /\  \          
          /::|  |        /\  \            /::\  \         
@@ -276,3 +245,4 @@ To transform raw data into DECISION riches.
           \/__/                                          
   </pre>
 </div>
+
