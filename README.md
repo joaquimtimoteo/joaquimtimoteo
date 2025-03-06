@@ -1,82 +1,65 @@
 <div align="center">
-  <pre style="line-height: 1.1;">
-      ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-      ███████████████████████████████████████████
-      █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-      █░  WELCOME TO THE QUANTUM CODE ALCHEMY  ░█
-      ███████████████████████████████████████████
+  <pre>
+  ▄▄▄   ▄▄▄     ▄▄▄▄      ▄▄▄     ██     ▄█▄ ▄█ ██    ▄▄
+ █   █ █   █   █    █    █   █   █  █   █▀ ▀  █  █    █▀▀
+ █   █ █   █   █    █    █▀▀▀▀   █▄▄█  ██▀    █  █▄▄  ██▄
+ ▀▀▀▀  ▀▀▀▀▀   ▀▀▀▀▀     ▀       ▀▀▀   ▀      ▀  ▀▀▀  ▀▀▀
+                  ▀█▀ █ █▀▄▀█ ▄▀▄ ▀█▀ █▀▀ ▄▀▄
+                   █  █ █ ▀ █ █▀█  █  █▀  █▀█
   </pre>
-
-  <div style="margin: 20px 0;">
-    <img src="https://img.icons8.com/color/96/python--v1.png" width="60" alt="Python" align="center" />
-    <b> + </b>
-    <img src="https://img.icons8.com/fluency/96/r-project.png" width="60" alt="R" align="center" />
-    <b> = </b>
-    <span style="font-size: 2.5rem;">🔮</span>
-  </div>
-
-  <h1 style="margin: 0;">JOAQUIM TIMÓTEO</h1>
-  <h3 style="font-style: italic; margin: 0;">Bilingual Data Architect | Python × R | Quantum Code Alchemist</h3>
   
-  <div style="margin-top: 10px;">
-    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaquimtimoteo)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquim-timóteo-619957227)
-    [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/joaquimtimoteo)
+  <div>
+    <img src="https://img.icons8.com/color/96/python--v1.png" width="50" alt="Python" align="center" />
+    <b>+</b>
+    <img src="https://img.icons8.com/fluency/96/r-project.png" width="50" alt="R" align="center" />
+    <b>=</b>
+    <span>🔮</span>
   </div>
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaquimtimoteo)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquim-timóteo-619957227)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/joaquimtimoteo)
 </div>
 
 ---
 
 <div align="center">
-  <h2>🔄 DUAL-WIELDING DATA SCIENCE & CODE ALCHEMY 🔄</h2>
-  <i>Porque dominar duas linguagens é o primeiro passo para transcender os limites da análise de dados.</i>
+  <h2>🔄 DUAL-WIELDING DATA SCIENCE 🔄</h2>
+  <i>Because why master one language when you can master two?</i>
 </div>
 
 ```
-╔══════════════════╗    ╔═══════════════════╗
-║  PYTHON DOMAIN   ║    ║     R DOMAIN      ║
-╚══════════════════╝    ╚═══════════════════╝
-          ┃                       ┃
-          ▼                       ▼
-┏━━━━━━━━━━━━━━━━━━━━━━┓   ┏━━━━━━━━━━━━━━━━━━━━━━┓
-┃ • TensorFlow         ┃   ┃ • Tidyverse          ┃
-┃ • PyTorch            ┃   ┃ • Shiny              ┃
-┃ • Scikit-learn       ┃   ┃ • Stan/brms          ┃
-┃ • Dask & Spark       ┃   ┃ • data.table         ┃
-┗━━━━━━━━━━━━━━━━━━━━━━┛   ┗━━━━━━━━━━━━━━━━━━━━━━┛
-          ┃                       ┃
-          ▼                       ▼
-       ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-       ┃      INTEGRATED DATA SOLUTIONS   ┃
-       ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+╔═══════════════╗  ╔════════════════╗
+║ PYTHON DOMAIN ║  ║   R DOMAIN     ║
+╚═══════════════╝  ╚════════════════╝
+      ┃                  ┃
+      ▼                  ▼
+┏━━━━━━━━━━━━━━━┓  ┏━━━━━━━━━━━━━━━┓
+┃ • TensorFlow  ┃  ┃ • Tidyverse    ┃
+┃ • PyTorch     ┃  ┃ • Shiny        ┃
+┃ • Scikit-learn┃  ┃ • Stan/brms    ┃
+┃ • Dask/Spark  ┃  ┃ • data.table   ┃
+┗━━━━━━━━━━━━━━━┛  ┗━━━━━━━━━━━━━━━┛
+      ┃                  ┃
+      ▼                  ▼
+  ┏━━━━━━━━━━━━━━━━━━━━━━━┓
+  ┃    DATA SOLUTIONS     ┃
+  ┗━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 ---
 
 <div align="center">
-  <h1>⚡ THE LANGUAGE TRANSFORMER: FROM CODE TO INSIGHT ⚡</h1>
+  <h1>⚡ THE LANGUAGE TRANSFORMER ⚡</h1>
 </div>
 
----
-
-## ✨ MY JOURNEY & PHILOSOPHY
-
-> “Em um mundo de dados em constante evolução, a verdadeira magia reside na convergência entre a lógica do código e a criatividade humana.”  
-> <span style="font-weight: bold;">– Joaquim Timóteo</span>
-
-Minha trajetória começou na interseção entre algoritmos e arte, onde percebi que tanto Python quanto R são varinhas mágicas para transformar dados brutos em insights valiosos. Acredito que a integração desses universos permite a criação de soluções que não apenas resolvem problemas, mas inspiram inovações disruptivas.
-
----
-
-## 🧪 CODE ALCHEMY LABORATORY
-
-### Python Incantations: The ML Spellbook
+<table>
+<tr>
+<td>
 
 ```python
+# Python Incantations
 def summon_ml_powers():
-    """
-    Convoca os feitiços de Machine Learning para transformar dados em sabedoria.
-    """
     spells = {
         "classification": [
             "🌲 RandomForest",
@@ -87,146 +70,89 @@ def summon_ml_powers():
             "📉 LinearRegression",
             "💫 ElasticNet",
             "🌊 GradientBoosting"
-        ],
-        "clustering": [
-            "🌀 K-Means",
-            "📊 DBSCAN"
         ]
     }
     
-    incantation = "✨ Machine Learning Wizardry Unleashed! ✨"
-    return spells, incantation
+    return "✨ Machine Learning Wizard ✨"
 ```
 
-### R Enchantments: The Statistical Grimoire
+</td>
+<td>
 
 ```r
+# R Enchantments
 cast_statistical_magic <- function() {
-  # Lista de feitiços para modelagem e análise estatística
   spells <- list(
-    modeling = c("📊 ggplot2", "🧮 lme4", "🔮 Stan"),
-    analysis = c("📈 time series", "🌐 spatial", "🧩 structural"),
-    visualization = c("📉 ggplot2", "✨ plotly")
+    "modeling" = c(
+      "📊 ggplot2",
+      "🧮 lme4",
+      "🔮 Stan"
+    ),
+    "analysis" = c(
+      "📈 time series",
+      "🌐 spatial", 
+      "🧩 structural"
+    )
   )
   
-  incantation <- "✨ Statistical Sorcery Unleashed! ✨"
-  return(list(spells = spells, incantation = incantation))
+  return("✨ Statistical Sorcerer ✨")
 }
 ```
 
----
-
-## 📈 PROJECT ALCHEMY: ARCHITECTING DATA REALMS
-
-<div align="center">
-  <h2>COMPLEX PROJECTS & DATA METAMORPHOSIS</h2>
-</div>
-
-### 🧠 Recommendation Engine of the Future
-
-```mermaid
-graph TD
-    A[User Behavior Data] --> B[Advanced Feature Engineering]
-    B --> C{Hybrid Filtering}
-    C -->|Collaborative| D[Matrix Factorization]
-    C -->|Content-Based| E[Neural Embeddings]
-    D & E --> F[Hybrid Recommendation Model]
-    F --> G[A/B Testing Chamber]
-    G --> H[Production API Portal]
-    
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style F fill:#bbf,stroke:#333,stroke-width:2px
-    style H fill:#bfb,stroke:#333,stroke-width:2px
-```
-
-### ⏳ Time Series Forecasting Beyond Time
-
-```mermaid
-graph TD
-    A[Historical Data Streams] --> B[Trend & Seasonality Extraction]
-    B --> C{Model Selection}
-    C -->|Classical| D[ARIMA & ETS]
-    C -->|Modern| E[Prophet & LSTM]
-    D & E --> F[Ensemble Forecasting]
-    F --> G[Dynamic Prediction API]
-    
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style F fill:#bbf,stroke:#333,stroke-width:2px
-    style G fill:#bfb,stroke:#333,stroke-width:2px
-```
-
----
-
-## 🧩 CROSS-PLATFORM SYNERGY
-
-<table align="center" style="width:100%; text-align: center;">
-  <tr>
-    <td width="25%">
-      <strong>Data Transformation</strong>
-      <br>
-      Python: `pd.melt()`, `pivot_table()`
-      <br>
-      R: `tidyr::pivot_longer()`, `spread()`
-    </td>
-    <td width="25%">
-      <strong>Machine Learning</strong>
-      <br>
-      Python: `scikit-learn`, `TensorFlow`
-      <br>
-      R: `caret`, `mlr3`
-    </td>
-    <td width="25%">
-      <strong>Deployment</strong>
-      <br>
-      Python: `Flask`, `FastAPI`
-      <br>
-      R: `plumber`, `shiny`
-    </td>
-    <td width="25%">
-      <strong>Visualization</strong>
-      <br>
-      Python: `Plotly Dash`, `Seaborn`
-      <br>
-      R: `Shiny`, `ggplot2`
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-## 🧪 CODE POTIONS: THE ART OF BREWING INSIGHTS
+<div align="center">
+  <h2>💠 DATA ALCHEMY LAB 💠</h2>
+</div>
 
-### ⚗️ PYTHON BREW: THE POTION OF PREDICTION
+```mermaid
+graph TD
+    A[Raw Data Ore] --> |Extract| B{Transformation Cauldron}
+    B -->|Python Path| C[ML Transmutation]
+    B -->|R Path| D[Statistical Distillation]
+    
+    C --> E[TensorFlow Forge]
+    C --> F[PyTorch Crucible]
+    D --> G[Bayesian Alembic]
+    D --> H[Tidyverse Filter]
+    
+    E & F & G & H --> I[Golden Insights]
+    I --> J[Decision Elixir]
+    
+    style A fill:#C3B091,stroke:#000,color:#000
+    style B fill:#722F37,stroke:#000,color:#fff
+    style I fill:#FFD700,stroke:#000,color:#000
+    style J fill:#0047AB,stroke:#000,color:#fff
+```
+
+---
+
+<div align="center">
+  <h2>🧪 CODE POTIONS 🧪</h2>
+</div>
+
+<table>
+<tr>
+<td>
+
+<div align="center">⚗️ <b>PYTHON BREW</b> ⚗️</div>
 
 ```python
 from sklearn.pipeline import Pipeline
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.preprocessing import StandardScaler, OneHotEncoder
-from sklearn.compose import ColumnTransformer
-from sklearn.impute import SimpleImputer
+from sklearn.preprocessing import StandardScaler
 
-def craft_ml_potion(data, target, selector_num, selector_cat):
-    """
-    Transforma dados brutos em uma poção preditiva.
-    """
-    numeric_transformer = Pipeline(steps=[
-        ('imputer', SimpleImputer(strategy='median')),
-        ('scaler', StandardScaler())
-    ])
+def craft_ml_potion(ingredients):
+    """Transforms raw data into prediction gold"""
     
-    categorical_transformer = Pipeline(steps=[
-        ('imputer', SimpleImputer(strategy='constant')),
-        ('encoder', OneHotEncoder(handle_unknown='ignore'))
-    ])
-    
-    preprocessor = ColumnTransformer(transformers=[
-        ('num', numeric_transformer, selector_num),
-        ('cat', categorical_transformer, selector_cat)
-    ])
-    
-    model_pipeline = Pipeline(steps=[
-        ('preprocessor', preprocessor),
-        ('classifier', RandomForestClassifier(
+    # The secret recipe
+    potion = Pipeline([
+        ('purify', StandardScaler()),
+        ('enchant', RandomForestClassifier(
             n_estimators=100,
             max_features='sqrt',
             bootstrap=True,
@@ -234,98 +160,109 @@ def craft_ml_potion(data, target, selector_num, selector_cat):
         ))
     ])
     
-    model_pipeline.fit(data, target)
-    return "✨ The predictive potion is complete! ✨"
+    # Brewing process
+    potion.fit(ingredients['X'], ingredients['y'])
+    
+    return "✨ The potion is ready! ✨"
 ```
 
-### ⚗️ R ELIXIR: THE BREW OF STATISTICAL WONDERS
+</td>
+<td>
+
+<div align="center">⚗️ <b>R ELIXIR</b> ⚗️</div>
 
 ```r
 library(tidyverse)
 library(brms)
 
-craft_statistical_elixir <- function(data, prediction_data) {
+craft_statistical_elixir <- function(ingredients) {
+  # The arcane formula
   formula <- bf(
-    outcome ~ s(predictor1) + (1 + predictor2 | group)
+    outcome ~ s(predictor1) + 
+      (1 + predictor2 | group)
   )
   
+  # The mystical brewing
   elixir <- brm(
     formula = formula,
-    data = data,
+    data = ingredients,
     family = gaussian(),
     prior = c(
       prior(normal(0, 5), class = "b"),
       prior(normal(0, 3), class = "sd")
     ),
     chains = 4,
-    iter = 2000,
-    warmup = 1000,
     cores = 4
   )
   
-  predictions <- posterior_predict(elixir, newdata = prediction_data)
-  return("✨ The statistical elixir has been brewed! ✨")
+  return("✨ The elixir is ready! ✨")
 }
 ```
 
----
-
-## 📚 SPELLBOOKS & KNOWLEDGE TOMES
-
-<table align="center" style="width: 100%; text-align: center;">
-  <tr>
-    <td width="33%">
-      <h3>🐍 Python Grimoire</h3>
-      <ul style="text-align: left; display: inline-block;">
-        <li>Deep Learning Incantations</li>
-        <li>NLP Enchantments</li>
-        <li>Computer Vision Spells</li>
-        <li>MLOps Rituals</li>
-        <li>Generative Adversarial Magics</li>
-      </ul>
-    </td>
-    <td width="33%">
-      <h3>📊 R Tome</h3>
-      <ul style="text-align: left; display: inline-block;">
-        <li>Bayesian Prophecies</li>
-        <li>Statistical Divinations</li>
-        <li>Time Series Scrying</li>
-        <li>Visualization Conjuring</li>
-        <li>Reproducible Research Rites</li>
-      </ul>
-    </td>
-    <td width="33%">
-      <h3>⚙️ Engineering Scrolls</h3>
-      <ul style="text-align: left; display: inline-block;">
-        <li>Cloud Architecture Runes</li>
-        <li>API Integration Sigils</li>
-        <li>Database Enchantments</li>
-        <li>CI/CD Talismans</li>
-        <li>Containerization Charms</li>
-      </ul>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
 <div align="center">
-  <h2>🔮 THE PROPHECY OF INSIGHT 🔮</h2>
-  <pre style="font-style: italic; max-width: 700px; margin: auto;">
-No reino dos dados, um praticante bilíngue se ergue,
-Onde Python e R se unem em uma convergência mística.
-Junte-se a mim, destemidos alquimistas e magos do código,
-Para transmutar dados brutos em riquezas decisórias.
-  </pre>
+  <h2>📚 SPELLBOOKS 📚</h2>
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+  <h3>🐍 Python Grimoire</h3>
+  <ul align="left">
+    <li>Deep Learning Incantations</li>
+    <li>NLP Enchantments</li>
+    <li>Computer Vision Spells</li>
+    <li>MLOps Rituals</li>
+  </ul>
+</td>
+<td width="33%" align="center">
+  <h3>📊 R Tome</h3>
+  <ul align="left">
+    <li>Bayesian Prophecies</li>
+    <li>Statistical Divinations</li>
+    <li>Time Series Scrying</li>
+    <li>Visualization Conjuring</li>
+  </ul>
+</td>
+<td width="33%" align="center">
+  <h3>⚙️ Engineering Scrolls</h3>
+  <ul align="left">
+    <li>Cloud Architecture Runes</li>
+    <li>API Integration Sigils</li>
+    <li>Database Wards</li>
+    <li>CI/CD Talismans</li>
+  </ul>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  <h2>🔮 THE PROPHECY 🔮</h2>
+  
+```
+In the realm of DATA, a bilingual practitioner emerges,
+Where PYTHON and R harmonize into powerful convergence.
+Seeking collaborations with fellow wizards and witches,
+To transform raw data into DECISION riches.
+```
+
   <br>
-  <h3>🧙‍♂️ EMBARK ON THIS QUEST 🧙‍♀️</h3>
+  <h3>🧙‍♂️ JOIN MY QUEST 🧙‍♀️</h3>
+  
   [![Collaborate](https://img.shields.io/badge/JOIN-THE_ALLIANCE-purple?style=for-the-badge)](https://github.com/joaquimtimoteo)
 </div>
 
 ---
 
 <div align="center">
-  <pre style="line-height: 1.1;">
+  <pre>
            ___                             ___           
           /\__\          ___              /\  \          
          /::|  |        /\  \            /::\  \         
