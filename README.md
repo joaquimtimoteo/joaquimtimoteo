@@ -1,183 +1,173 @@
-<h1 align="center">
-  <img src="https://img.icons8.com/color/96/python--v1.png" width="70"/> 
-  <img src="https://img.icons8.com/fluency/96/r-project.png" width="70"/>
-  <br/> Joaquim Timóteo | Software Engineer & Data Science Architect 
-</h1>
 
+
+Here’s an enhanced version of your technical profile with improved formatting, consistency, and visual polish. I’ve also added some stylistic touches to make it more engaging and professional:
+
+---
+
+# **Joaquim Timóteo**  
+## Software Engineer & Data Science Architect  
+<p align="center">
+  <img src="https://img.icons8.com/color/96/python--v1.png" width="70" alt="Python" />
+  <img src="https://img.icons8.com/fluency/96/r-project.png" width="70" alt="R" />
+</p>
+
+---
+
+## 🚀 **Core Expertise**  
+A bilingual data scientist with mastery in **Python** and **R**, delivering end-to-end solutions spanning:  
+- 🧠 **Machine Learning**: Production pipelines, neural networks, ensemble methods.  
+- 📊 **Data Visualization**: Interactive dashboards, publication-quality reports.  
+- 🔌 **Engineering**: API integration, scalable cloud deployment.  
+
+---
+
+## 🧰 **Technical Stack**  
+
+### **Python Ecosystem**  
 ```python
 class DataScienceExpertise:
     def __init__(self):
         self.ml_frameworks = ['TensorFlow', 'PyTorch', 'Scikit-learn']
         self.visualization_tools = ['Matplotlib', 'Seaborn', 'Plotly']
-        self.analytics_stack = ['Pandas', 'NumPy', 'Spark']
+        self.data_engineering = ['Pandas', 'NumPy', 'Dask', 'Apache Spark']
         
     def deliver_solutions(self):
-        return "Robust ML Pipelines | Seamless API Integration | Scalable Cloud Deployment"
+        return "Robust ML Pipelines | Scalable Cloud Deployment | RESTful API Integration"
 ```
+
+### **R Ecosystem**  
 ```r
 # R STATISTICAL PROWESS
 advanced_analytics <- list(
-  statistical_expertise = c("GLM", "Time Series", "Bayesian Inference"),
-  data_visualization = c("ggplot2", "Interactive Shiny", "Lattice"),
-  efficient_manipulation = c("dplyr", "tidyr", "data.table")
+  modeling = c("GLM", "Time Series", "Bayesian Inference"),
+  visualization = c("ggplot2", "Shiny", "Lattice"),
+  data_engineering = c("dplyr", "data.table", "SparkR")
 )
 
 deliver_insights <- function() {
-  return("Sophisticated Statistical Modeling | Elegant Report Generation | Interactive RMarkdown")
+  return("Sophisticated Statistical Modeling | Interactive Dashboards | Reproducible Reporting")
 }
 ```
 
 ---
 
-## 🔁 **End-to-End Data Science Architecture**
+## 🔁 **End-to-End Data Science Workflow**  
 
-### **Python Ecosystem**
+### **Python Pipeline**  
 ```mermaid
 graph LR
-A[Comprehensive Data Collection] --> B(Elegant Pandas Preprocessing)
-B --> C{Strategic Model Selection}
-C -->|Production ML| D[Optimized Scikit-learn]
-C -->|Neural Networks| E[Advanced TensorFlow]
-D --> F[Performant Flask API]
+A[Data Ingestion] --> B[Feature Engineering]
+B --> C{Model Selection}
+C -->|Supervised| D[Scikit-Learn]
+C -->|Deep Learning| E[TensorFlow]
+D --> F[Flask API Deployment]
 E --> F
+F --> G[Cloud Monitoring]
 ```
 
-### **R Ecosystem**
+### **R Pipeline**  
 ```mermaid
 graph LR
-A[Meticulous Data Cleaning] --> B(Powerful dplyr Transformation)
-B --> C{Analytics Approach}
-C -->|Statistical Inference| D[Sophisticated GLM Models]
-C -->|Executive Reporting| E[Dynamic RMarkdown]
-D --> F[Interactive Shiny Dashboard]
+A[Data Cleaning] --> B[Statistical Analysis]
+B --> C{Output Type}
+C -->|Interactive| D[Shiny Dashboard]
+C -->|Static| E[RMarkdown Report]
+D --> F[Deployment]
 E --> F
 ```
 
 ---
 
-## 📊 **Bilingual Data Science Arsenal**
+## 🌐 **Cross-Language Synergy**  
 
-| Business Need          | Python Implementation           | R Implementation                 |
-|------------------------|--------------------------------|----------------------------------|
-| Data Restructuring     | `pd.DataFrame.pivot()`         | `dplyr::pivot_wider()`           |
-| Pattern Visualization  | `sns.heatmap()`                | `ggplot2::geom_tile()`           |
-| Predictive Modeling    | `sklearn.ensemble`             | `caret::train()`                 |
-| Solution Delivery      | `Flask` Enterprise REST API    | `Shiny` Executive Dashboards     |
+| Task                | Python Implementation         | R Implementation             |
+|---------------------|-------------------------------|-------------------------------|
+| **Data Restructuring** | `pd.melt()` / `pd.pivot()`    | `tidyr::pivot_longer()`       |
+| **Pattern Detection** | `sklearn.cluster`             | `cluster::kmeans()`           |
+| **Model Deployment**  | `Flask` API                   | `plumber` API                 |
+| **Visualization**     | `Plotly Dash`                 | `Shiny`                       |
 
 ---
 
-## 🧪 **Technical Excellence**
+## 🧪 **Code Artistry**  
 
-### **Python ML Craftsmanship**
+### **Python ML Pipeline**  
 ```python
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.pipeline import Pipeline
 
-def build_predictive_model(X, y):
-    model = RandomForestClassifier(n_estimators=100)
-    model.fit(X, y)
-    return model
-
-# Robust Feature Engineering Pipeline
-X_optimized = Pipeline([
-    ('imputer', SimpleImputer(strategy='median')),
-    ('scaler', StandardScaler())
-]).fit_transform(X)
+def build_model(X, y):
+    pipeline = Pipeline([
+        ('preprocessor', ColumnTransformer([
+            ('num', SimpleImputer(strategy='median'), numeric_features),
+            ('cat', OneHotEncoder(), categorical_features)
+        ])),
+        ('classifier', RandomForestClassifier(n_estimators=100))
+    ])
+    
+    pipeline.fit(X, y)
+    return pipeline
 ```
 
-### **R Statistical Mastery**
+### **R Statistical Workflow**  
 ```r
-library(caret)
+# Bayesian Modeling with Stan
+library(rstanarm)
 
-build_predictive_model <- function(data) {
-  control <- trainControl(method = "cv", number = 5)
-  model <- train(
-    Class ~ .,
-    data = data,
-    method = "glmnet",
-    trControl = control
-  )
-  return(model)
-}
-
-# Sophisticated Visualization
-ggplot(mtcars, aes(x = wt, y = mpg)) + 
-  geom_point(aes(color = factor(cyl)), size = 3) + 
-  geom_smooth(method = "lm") +
-  theme_minimal() +
-  labs(title = "Weight vs. Efficiency Analysis")
-```
-
----
-
-## 📦 **Software Development Expertise**
-
-**Python**:
-```bash
-# Production-Ready PyPI Package
-$ poetry new ds_utils
-$ python -m build
-```
-
-**R**:
-```bash
-# Publication-Quality CRAN Package
-$ devtools::create("rDStools")
-$ devtools::check()
-```
-
----
-
-## 📚 **Continuous Learning Philosophy**
-
-```python
-# Python Excellence Roadmap
-knowledge_portfolio = {
-    'essential_reading': ['Python for Data Analysis', 'Fluent Python'],
-    'professional_development': ['Advanced ML Architecture', 'Distributed PySpark Systems']
-}
-```
-
-```r
-# R Expertise Trajectory
-knowledge_portfolio <- list(
-  essential_reading = c("R for Data Science", "Advanced R"),
-  professional_development = c("Enterprise Shiny Applications", "Production R Systems")
+model <- stan_glm(
+  formula = mpg ~ .,
+  data = mtcars,
+  prior = normal(0, 10),
+  chains = 4,
+  iter = 2000
 )
+
+# Visualization
+ggplot(mtcars, aes(x = wt, y = mpg, color = factor(cyl))) +
+  geom_point(size = 3) +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(title = "Weight vs. Fuel Efficiency Analysis") +
+  theme_minimal()
 ```
 
 ---
 
-## 🌐 **Professional Network**
+## 📦 **Software Engineering**  
 
+### **Production-Ready Packages**  
+```bash
+# Python (Poetry)
+poetry init --name ds_utils
+poetry add numpy pandas scikit-learn
+
+# R (RStudio)
+usethis::create_package("rDStools")
+devtools::document()
+```
+
+---
+
+## 🌟 **Professional Credentials**  
+<p align="center">
+  <a href="https://github.com/joaquimtimoteo">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/joaquim-timóteo-619957227">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/joaquimtimoteo">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</p>
+
+---
+
+## 📚 **Learning Philosophy**  
 ```python
-# Python Ecosystem
-def connect_professionally():
-    platforms = {
-        'GitHub': 'https://github.com/joaquimtimoteo/',
-        'LinkedIn': 'www.linkedin.com/in/joaquim-timóteo-619957227'
+# Continuous Improvement
+def grow_expertise():
+    return {
+        'python': ['Advanced PyTorch', 'Distributed Computing'],
+        'r': ['Tidyverse Mastery', 'Enterprise Shiny']
     }
-    return platforms
 ```
-
-```r
-# R Community
-connect_professionally <- function() {
-  list(
-    Kaggle = "https://kaggle.com/joaquimtimoteo",
-    RPubs = "https://rpubs.com/joaquimtimoteo"
-  )
-}
-```
-
-<details>
-<summary>📌 Comprehensive Technical Proficiency</summary>
-
-| Domain                | Python Implementation        | R Implementation           |
-|-----------------------|------------------------------|----------------------------|
-| Data Transformation   | Pandas/Numpy                 | dplyr/tidyr                |
-| Data Storytelling     | Matplotlib/Plotly            | ggplot2/Plotly             |
-| Predictive Analytics  | Scikit-learn/TensorFlow      | caret/Tidymodels           |
-| Insight Communication | Jupyter Notebooks            | RMarkdown/Quarto           |
-| Solution Deployment   | Flask/Django                 | Shiny/plumber              |
-
-</details>
