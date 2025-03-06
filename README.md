@@ -1,171 +1,278 @@
-# **Joaquim Timóteo**  
-## Software Engineer & Data Science Architect
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/python--v1.png" width="70" alt="Python" />
-  <img src="https://img.icons8.com/fluency/96/r-project.png" width="70" alt="R" />
-</p>
-
----
-
-## 🚀 Core Expertise
-A bilingual data scientist skilled in **Python** and **R** who delivers end-to-end solutions including:  
-- **Machine Learning:** Building production pipelines, neural networks, and ensemble methods.  
-- **Data Visualization:** Crafting interactive dashboards and publication-quality reports.  
-- **Software Engineering:** Integrating APIs and deploying scalable cloud solutions.
+<div align="center">
+  <img src="https://img.icons8.com/color/96/python--v1.png" width="60" alt="Python" />
+  <img src="https://img.icons8.com/fluency/96/r-project.png" width="60" alt="R" />
+  
+  # **JOAQUIM TIMÓTEO**
+  ### _Bilingual Data Architect: Python × R_
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaquimtimoteo)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquim-timóteo-619957227)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/joaquimtimoteo)
+</div>
 
 ---
 
-## 🧰 Technical Stack
+<table>
+<tr>
+<td width="60%">
 
-### **Python Ecosystem**
+## // ARCHITECTING DATA SOLUTIONS
+
 ```python
-class DataScienceExpert:
-    def __init__(self):
-        self.ml_frameworks = ['TensorFlow', 'PyTorch', 'Scikit-learn']
-        self.visualization_tools = ['Matplotlib', 'Seaborn', 'Plotly']
-        self.data_engineering = ['Pandas', 'NumPy', 'Dask', 'Apache Spark']
-
-    def deliver_solutions(self):
-        return "Robust ML Pipelines | Scalable Cloud Deployments | RESTful API Integration"
-```
-
-### **R Ecosystem**
-```r
-# Advanced Statistical Analysis in R
-analytics <- list(
-  modeling = c("GLM", "Time Series", "Bayesian Inference"),
-  visualization = c("ggplot2", "Shiny", "Lattice"),
-  data_engineering = c("dplyr", "data.table", "SparkR")
-)
-
-deliver_insights <- function() {
-  return("Sophisticated Statistical Modeling | Interactive Dashboards | Reproducible Reporting")
-}
-```
-
----
-
-## 🔁 End-to-End Data Science Workflows
-
-### **Python Pipeline**
-```mermaid
-graph LR
-    A[Data Ingestion] --> B[Feature Engineering]
-    B --> C{Model Selection}
-    C -->|Supervised| D[Scikit-Learn]
-    C -->|Deep Learning| E[TensorFlow]
-    D --> F[Flask API Deployment]
-    E --> F
-    F --> G[Cloud Monitoring]
-```
-
-### **R Pipeline**
-```mermaid
-graph LR
-    A[Data Cleaning] --> B[Statistical Analysis]
-    B --> C{Output Type}
-    C -->|Interactive| D[Shiny Dashboard]
-    C -->|Static| E[RMarkdown Report]
-    D --> F[Deployment]
-    E --> F
-```
-
----
-
-## 🌐 Cross-Language Synergy
-
-| Task                  | Python Implementation         | R Implementation              |
-|-----------------------|-------------------------------|-------------------------------|
-| **Data Reshaping**    | `pd.melt()` / `pd.pivot()`     | `tidyr::pivot_longer()`        |
-| **Pattern Detection** | `sklearn.cluster`              | `cluster::kmeans()`            |
-| **Model Deployment**  | `Flask` API                    | `plumber` API                  |
-| **Visualization**     | `Plotly Dash`                  | `Shiny`                        |
-
----
-
-## 🧪 Code Artistry
-
-### **Python ML Pipeline**
-```python
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.pipeline import Pipeline
-from sklearn.compose import ColumnTransformer
-from sklearn.impute import SimpleImputer
-from sklearn.preprocessing import OneHotEncoder
-
-def build_model(X, y, numeric_features, categorical_features):
-    pipeline = Pipeline([
-        ('preprocessor', ColumnTransformer([
-            ('num', SimpleImputer(strategy='median'), numeric_features),
-            ('cat', OneHotEncoder(), categorical_features)
-        ])),
-        ('classifier', RandomForestClassifier(n_estimators=100))
-    ])
-    pipeline.fit(X, y)
-    return pipeline
-```
-
-### **R Statistical Workflow**
-```r
-library(rstanarm)
-library(ggplot2)
-
-# Bayesian Modeling with Stan
-model <- stan_glm(
-  formula = mpg ~ .,
-  data = mtcars,
-  prior = normal(0, 10),
-  chains = 4,
-  iter = 2000
-)
-
-# Visualization Example
-ggplot(mtcars, aes(x = wt, y = mpg, color = factor(cyl))) +
-  geom_point(size = 3) +
-  geom_smooth(method = "lm", se = FALSE) +
-  labs(title = "Weight vs. Fuel Efficiency Analysis") +
-  theme_minimal()
-```
-
----
-
-## 📦 Software Engineering
-
-### **Production-Ready Packages**
-```bash
-# Python (using Poetry)
-poetry init --name ds_utils
-poetry add numpy pandas scikit-learn
-
-# R (using RStudio)
-usethis::create_package("rDStools")
-devtools::document()
-```
-
----
-
-## 🌟 Professional Credentials
-<p align="center">
-  <a href="https://github.com/joaquimtimoteo">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/joaquim-timóteo-619957227">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://kaggle.com/joaquimtimoteo">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-</p>
-
----
-
-## 📚 Learning Philosophy
-```python
-def grow_expertise():
+def expertise():
     return {
-        'python': ['Advanced PyTorch', 'Distributed Computing'],
-        'r': ['Tidyverse Mastery', 'Enterprise Shiny']
+        "machine_learning": {
+            "deep": ["TensorFlow", "PyTorch"],
+            "traditional": ["scikit-learn", "XGBoost"]
+        },
+        "engineering": {
+            "data": ["Pandas", "NumPy", "Spark"],
+            "cloud": ["AWS", "GCP", "Azure"]
+        },
+        "visualization": ["Plotly", "Seaborn", "D3.js"]
     }
 ```
 
+</td>
+<td width="40%">
+
+## // R ANALYTICS FORGE
+
+```r
+analytics_mastery <- list(
+  statistical = c("Bayesian", "Time Series"),
+  interactive = c("Shiny", "htmlwidgets"),
+  reports = c("RMarkdown", "Quarto"),
+  packages = c("tidyverse", "data.table")
+)
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ BILINGUAL DATA SCIENCE PIPELINE ⚡
+
+<div align="center">
+
+```mermaid
+graph LR
+    D[Data] --> P{Analysis Path}
+    P -->|Statistical Modeling| R[R Ecosystem]
+    P -->|ML/Deep Learning| PY[Python Stack]
+    R --> V{Visualization}
+    PY --> V
+    V -->|Interactive| I[Web Dashboards]
+    V -->|Static| S[Reports/Notebooks]
+    I --> DL[Deployment]
+    S --> DL
+    
+    classDef python fill:#3776AB,color:white;
+    classDef r fill:#276DC3,color:white;
+    classDef deploy fill:#232F3E,color:white;
+    
+    class PY python;
+    class R r;
+    class DL deploy;
+```
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 🔬 CODE CRAFTSMANSHIP
+
+```python
+# Python ML Pipeline Architect
+def build_robust_pipeline(data, target):
+    # Define preprocessing steps
+    numeric_transformer = Pipeline(steps=[
+        ('imputer', SimpleImputer(strategy='median')),
+        ('scaler', StandardScaler())
+    ])
+    
+    categorical_transformer = Pipeline(steps=[
+        ('imputer', SimpleImputer(strategy='constant')),
+        ('encoder', OneHotEncoder(handle_unknown='ignore'))
+    ])
+    
+    # Column transformer for mixed data types
+    preprocessor = ColumnTransformer(
+        transformers=[
+            ('num', numeric_transformer, selector_num),
+            ('cat', categorical_transformer, selector_cat)
+        ])
+    
+    # Create production-ready pipeline
+    model_pipeline = Pipeline(steps=[
+        ('preprocessor', preprocessor),
+        ('classifier', RandomForestClassifier(
+            n_estimators=100,
+            max_depth=None,
+            min_samples_split=2,
+            random_state=42
+        ))
+    ])
+    
+    # Train with cross-validation
+    return model_pipeline.fit(data, target)
+```
+
+</td>
+<td width="50%">
+
+## 📊 STATISTICAL MASTERY
+
+```r
+# Advanced Bayesian Analysis in R
+advanced_modeling <- function(data) {
+  # Bayesian hierarchical model with Stan
+  model <- brm(
+    formula = outcome ~ predictor1 + predictor2 + 
+      (1 + predictor1 | group),
+    data = data,
+    family = gaussian(),
+    prior = c(
+      prior(normal(0, 10), class = "b"),
+      prior(cauchy(0, 2), class = "sd")
+    ),
+    chains = 4,
+    iter = 2000,
+    warmup = 1000,
+    cores = 4
+  )
+  
+  # Generate posterior predictions
+  predictions <- posterior_predict(
+    model, 
+    newdata = prediction_data
+  )
+  
+  # Return model and diagnostics
+  return(list(
+    model = model,
+    diagnostics = pp_check(model),
+    predictions = predictions
+  ))
+}
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔮 EMERGING TECHNOLOGY FOCUS
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><b>ML Ops</b></td>
+<td align="center"><b>MLflow</b></td>
+<td align="center"><b>Kubeflow</b></td>
+<td align="center"><b>Docker</b></td>
+<td align="center"><b>CI/CD</b></td>
+</tr>
+<tr>
+<td align="center"><b>Distributed Computing</b></td>
+<td align="center"><b>Dask</b></td>
+<td align="center"><b>Spark</b></td>
+<td align="center"><b>Ray</b></td>
+<td align="center"><b>Kubernetes</b></td>
+</tr>
+<tr>
+<td align="center"><b>Deep Learning</b></td>
+<td align="center"><b>PyTorch</b></td>
+<td align="center"><b>TensorFlow</b></td>
+<td align="center"><b>JAX</b></td>
+<td align="center"><b>ONNX</b></td>
+</tr>
+<tr>
+<td align="center"><b>Data Engineering</b></td>
+<td align="center"><b>Airflow</b></td>
+<td align="center"><b>DBT</b></td>
+<td align="center"><b>Snowflake</b></td>
+<td align="center"><b>BigQuery</b></td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📈 PROJECT ARCHITECTURE SHOWCASE
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Recommendation Engine
+
+```mermaid
+graph TD
+    A[User Behavior Data] --> B[Feature Engineering]
+    B --> C[Collaborative Filtering]
+    B --> D[Content-Based Filtering]
+    C --> E[Hybrid Model]
+    D --> E
+    E --> F[A/B Testing]
+    F --> G[Production API]
+    
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style E fill:#bbf,stroke:#333,stroke-width:2px
+    style G fill:#bfb,stroke:#333,stroke-width:2px
+```
+
+</td>
+<td width="50%">
+
+### 📊 Time Series Forecasting
+
+```mermaid
+graph TD
+    A[Historical Data] --> B[Trend Decomposition]
+    B --> C[Seasonal Analysis]
+    B --> D[ARIMA Modeling]
+    B --> E[Prophet]
+    B --> F[LSTM Networks]
+    C & D & E & F --> G[Ensemble Methods]
+    G --> H[Prediction API]
+    
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style G fill:#bbf,stroke:#333,stroke-width:2px
+    style H fill:#bfb,stroke:#333,stroke-width:2px
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ✨ CONTRIBUTIONS WELCOME ✨
+
+</div>
+
+```python
+def collaborate():
+    domains = ["MLOps", "Generative AI", "Causal Inference", "Bayesian Modeling"]
+    interests = ["Open Source", "Mentorship", "Research", "Teaching"]
+    
+    return "Always open to collaborating on innovative data science projects!"
+```
+
+<div align="center">
+  
+  ---
+  
+  ### 📫 Reach out for collaborations, consulting, or just to chat about data science
+
+</div>
