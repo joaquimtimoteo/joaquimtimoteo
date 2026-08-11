@@ -23,7 +23,7 @@ Nominated for **Forbes Africa Lusophone "Under 30"** · Invited speaker at **CPH
 
 ## Featured work
 
-### 🦟 [malaria-forecast-mcp](https://github.com/joaquimtimoteo/MCP-server-Malaria) — MCP server for agentic epidemiological forecasting
+###  [malaria-forecast-mcp](https://github.com/joaquimtimoteo/MCP-server-Malaria) — MCP server for agentic epidemiological forecasting
 
 An MCP server that gives AI agents access to provincial malaria surveillance and short-horizon outbreak forecasting — with the guardrails that make model output safe for an agent to act on.
 
@@ -40,7 +40,7 @@ The harness caught two defects I would not have found by inspection: ensemble we
 
 ---
 
-### 📈 Malaria Early-Warning System (Angola)
+###  Malaria Early-Warning System (Angola)
 
 Operational forecasting across all 18 provinces under the administrative division in force during the study period (2000–2024), combining climate covariates with epidemiological-memory features.
 
@@ -79,7 +79,7 @@ graph LR
 
 ---
 
-### 🔍 Cross-dataset evaluation of a mammographic lesion classifier
+###  Cross-dataset evaluation of a mammographic lesion classifier
 
 Measured internal performance against **external generalisation failure**, with Grad-CAM explainability to identify not just whether the model degraded but *where its attention shifted when it did*. Accuracy reported on internal validation is not evidence of clinical reliability elsewhere.
 
@@ -159,6 +159,6 @@ Turning the Claude ecosystem work into shipped code rather than certificates: an
 
 Remote delivery across Angola, Brazil, Saudi Arabia and Russia.
 
-📫 **joaquimcarltimoteo@gmail.com**
+ **joaquimcarltimoteo@gmail.com**
 
 </div>
