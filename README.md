@@ -15,7 +15,7 @@
 
 I build machine learning systems that reach production and stay there.
 
-I'm an AI researcher at the **AIRI Institute** (Advanced Computing Research Laboratory, Moscow), where I built the first operational malaria early-warning system covering every province of Angola — a five-engine ensemble forecasting outbreaks **six to eight weeks ahead**. Behind the research sits seven years of production engineering: fintech platforms scaled past 5,000 active users, fraud-detection models running in live financial systems, and deep-learning training accelerated 3× with CUDA and TensorRT.
+I'm an AI researcher at the **(Advanced Computing Research Laboratory, Moscow), where I built the first operational malaria early-warning system covering every province of Angola — a five-engine ensemble forecasting outbreaks **six to eight weeks ahead**. Behind the research sits seven years of production engineering: fintech platforms scaled past 5,000 active users, fraud-detection models running in live financial systems, and deep-learning training accelerated 3× with CUDA and TensorRT.
 
 Nominated for **Forbes Africa Lusophone "Under 30"** · Invited speaker at **CPHIA 2026**, Addis Ababa
 
